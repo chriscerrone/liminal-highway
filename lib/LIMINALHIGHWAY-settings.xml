@@ -3,23 +3,23 @@
 <pattrstorage name = "u458018884">
 	<slot number = "1">
 		<pattr name = "button[3]" value = "1." />
-		<pattr name = "click_track_gain" value = "61" />
+		<pattr name = "click_track_gain" value = "109" />
 		<pattr name = "flonum[10]" value = "365" />
 		<pattr name = "flonum[11]" value = "365" />
 		<pattr name = "flonum[12]" value = "365" />
 		<pattr name = "flonum[13]" value = "365" />
 		<pattr name = "flonum[14]" value = "365" />
 		<pattr name = "flonum[15]" value = "365" />
-		<pattr name = "flonum[16]" value = "365" />
+		<pattr name = "flonum[16]" value = "325" />
 		<pattr name = "flonum[17]" value = "294" />
 		<pattr name = "flonum[18]" value = "365" />
 		<pattr name = "flonum[19]" value = "365" />
 		<pattr name = "flonum[1]" value = "365" />
-		<pattr name = "flonum[20]" value = "365" />
-		<pattr name = "flonum[21]" value = "365" />
+		<pattr name = "flonum[20]" value = "319" />
+		<pattr name = "flonum[21]" value = "336" />
 		<pattr name = "flonum[22]" value = "232" />
 		<pattr name = "flonum[23]" value = "365" />
-		<pattr name = "flonum[24]" value = "365" />
+		<pattr name = "flonum[24]" value = "324" />
 		<pattr name = "flonum[25]" value = "365" />
 		<pattr name = "flonum[2]" value = "365" />
 		<pattr name = "flonum[3]" value = "365" />
@@ -29,7 +29,7 @@
 		<pattr name = "flonum[7]" value = "365" />
 		<pattr name = "flonum[8]" value = "365" />
 		<pattr name = "flonum[9]" value = "365" />
-		<pattr name = "gain~" value = "365" />
+		<pattr name = "gain~" value = "325" />
 		<pattr name = "gain~[10]" value = "365" />
 		<pattr name = "gain~[11]" value = "365" />
 		<pattr name = "gain~[12]" value = "365" />
@@ -38,28 +38,28 @@
 		<pattr name = "gain~[15]" value = "365" />
 		<pattr name = "gain~[16]" value = "365" />
 		<pattr name = "gain~[17]" value = "294" />
-		<pattr name = "gain~[18]" value = "365" />
+		<pattr name = "gain~[18]" value = "359" />
 		<pattr name = "gain~[19]" value = "365" />
-		<pattr name = "gain~[1]" value = "365" />
-		<pattr name = "gain~[20]" value = "365" />
+		<pattr name = "gain~[1]" value = "359" />
+		<pattr name = "gain~[20]" value = "324" />
 		<pattr name = "gain~[21]" value = "365" />
 		<pattr name = "gain~[22]" value = "232" />
-		<pattr name = "gain~[23]" value = "365" />
+		<pattr name = "gain~[23]" value = "336" />
 		<pattr name = "gain~[24]" value = "365" />
 		<pattr name = "gain~[25]" value = "365" />
-		<pattr name = "gain~[26]" value = "365" />
+		<pattr name = "gain~[26]" value = "319" />
 		<pattr name = "gain~[2]" value = "365" />
 		<pattr name = "gain~[3]" value = "365" />
 		<pattr name = "gain~[4]" value = "365" />
 		<pattr name = "gain~[5]" value = "365" />
 		<pattr name = "gain~[6]" value = "365" />
-		<pattr name = "gain~[72]" value = "365" />
+		<pattr name = "gain~[72]" value = "323" />
 		<pattr name = "gain~[74]" value = "332" />
 		<pattr name = "gain~[7]" value = "365" />
 		<pattr name = "gain~[8]" value = "365" />
 		<pattr name = "gain~[9]" value = "365" />
 		<pattr name = "js" value = "" />
-		<pattr name = "number[1]" value = "365" />
+		<pattr name = "number[1]" value = "359" />
 		<pattr name = "umenu" value = "0" />
 		<patcher name = "processors">
 			<patcher name = "sample-players">
@@ -429,9 +429,9 @@
 			<pattr name = "gain~[18]" value = "0" />
 			<pattr name = "gain~[19]" value = "0" />
 			<pattr name = "gain~[1]" value = "232" />
-			<pattr name = "gain~[2]" value = "0" />
+			<pattr name = "gain~[2]" value = "365" />
 			<pattr name = "gain~[3]" value = "365" />
-			<pattr name = "gain~[4]" value = "294" />
+			<pattr name = "gain~[4]" value = "341" />
 			<pattr name = "gain~[5]" value = "365" />
 			<pattr name = "gain~[6]" value = "365" />
 			<pattr name = "gain~[7]" value = "365" />
