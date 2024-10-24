@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 92.0, 313.0, 1659.0, 530.0 ],
+		"rect" : [ 412.0, 527.0, 1659.0, 530.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -1713,7 +1713,7 @@
 										"gain~[18]" : [ 0 ],
 										"gain~[19]" : [ 0 ],
 										"gain~[1]" : [ 232 ],
-										"gain~[2]" : [ 365 ],
+										"gain~[2]" : [ 0 ],
 										"gain~[3]" : [ 365 ],
 										"gain~[4]" : [ 294 ],
 										"gain~[5]" : [ 365 ],
@@ -49817,35 +49817,35 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "LIMINALHIGHWAY-settings.xml",
-				"bootpath" : "~/Dropbox/max/CAREER STUFF/freelance/clients/chris cerrone/liminal highway/lib",
+				"bootpath" : "~/Library/CloudStorage/Dropbox/liminal highway/lib",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "all-fade-steps.txt",
-				"bootpath" : "~/Dropbox/max/CAREER STUFF/freelance/clients/chris cerrone/liminal highway/lib",
+				"bootpath" : "~/Library/CloudStorage/Dropbox/liminal highway/lib",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "cc_sample_player.maxpat",
-				"bootpath" : "~/Dropbox/max/CAREER STUFF/freelance/clients/chris cerrone/liminal highway/lib",
+				"bootpath" : "~/Library/CloudStorage/Dropbox/liminal highway/lib",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "cc_sample_player_click.maxpat",
-				"bootpath" : "~/Dropbox/max/CAREER STUFF/freelance/clients/chris cerrone/liminal highway/lib",
+				"bootpath" : "~/Library/CloudStorage/Dropbox/liminal highway/lib",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "effect-steps.txt",
-				"bootpath" : "~/Dropbox/max/CAREER STUFF/freelance/clients/chris cerrone/liminal highway/lib",
+				"bootpath" : "~/Library/CloudStorage/Dropbox/liminal highway/lib",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
@@ -49857,20 +49857,20 @@
 , 			{
 				"name" : "patchdescribe.js",
 				"bootpath" : "~/Library/Application Support/Cycling '74/Max 8/Examples/javascript/patcher-scripting",
-				"patcherrelativepath" : "../../../../../../../../Library/Application Support/Cycling '74/Max 8/Examples/javascript/patcher-scripting",
+				"patcherrelativepath" : "../../../../Application Support/Cycling '74/Max 8/Examples/javascript/patcher-scripting",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "sample-steps.txt",
-				"bootpath" : "~/Dropbox/max/CAREER STUFF/freelance/clients/chris cerrone/liminal highway/lib",
+				"bootpath" : "~/Library/CloudStorage/Dropbox/liminal highway/lib",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "step-is-manual.txt",
-				"bootpath" : "~/Dropbox/max/CAREER STUFF/freelance/clients/chris cerrone/liminal highway/lib",
+				"bootpath" : "~/Library/CloudStorage/Dropbox/liminal highway/lib",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
