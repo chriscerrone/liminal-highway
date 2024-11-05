@@ -144,7 +144,6 @@
 									"fontname" : "Arial",
 									"fontsize" : 12.0,
 									"id" : "obj-2",
-									"linecount" : 3,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 0,
@@ -270,7 +269,6 @@
 									"fontname" : "Arial",
 									"fontsize" : 12.0,
 									"id" : "obj-2",
-									"linecount" : 3,
 									"maxclass" : "newobj",
 									"numinlets" : 0,
 									"numoutlets" : 1,
@@ -723,9 +721,9 @@
 									"outlettype" : [ "", "", "", "" ],
 									"patching_rect" : [ 21.0, 442.0, 223.0, 22.0 ],
 									"restore" : 									{
-										"gain~" : [ 365 ],
-										"gain~[1]" : [ 365 ],
-										"number" : [ 365 ]
+										"gain~" : [ 0 ],
+										"gain~[1]" : [ 0 ],
+										"number" : [ 0 ]
 									}
 ,
 									"text" : "autopattr @autoname 1 @autorestore 0",
@@ -811,20 +809,6 @@
 							}
 , 							{
 								"box" : 								{
-									"fontname" : "Arial",
-									"fontsize" : 12.0,
-									"id" : "obj-17",
-									"maxclass" : "message",
-									"numinlets" : 2,
-									"numoutlets" : 1,
-									"outlettype" : [ "" ],
-									"patching_rect" : [ 21.0, 162.5, 50.0, 22.0 ],
-									"text" : "0 2000"
-								}
-
-							}
-, 							{
-								"box" : 								{
 									"id" : "obj-15",
 									"maxclass" : "toggle",
 									"numinlets" : 1,
@@ -846,7 +830,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 468.0, 286.0, 129.0, 22.0 ],
-									"text" : "a_wet1-sample-gain"
+									"text" : "#1-sample-gain"
 								}
 
 							}
@@ -908,7 +892,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 103.0, 129.0, 50.0, 22.0 ],
-													"text" : "a_wet1"
+													"text" : "#1"
 												}
 
 											}
@@ -1091,7 +1075,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 278.0, 31.5, 249.0, 60.0 ],
-									"text" : "a_wet1"
+									"text" : "#1"
 								}
 
 							}
@@ -1674,7 +1658,6 @@
 													"fontname" : "Arial",
 													"fontsize" : 12.0,
 													"id" : "obj-72",
-													"linecount" : 2,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
@@ -1715,7 +1698,6 @@
 													"fontname" : "Arial",
 													"fontsize" : 12.0,
 													"id" : "obj-69",
-													"linecount" : 2,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
@@ -1768,7 +1750,6 @@
 													"fontname" : "Arial",
 													"fontsize" : 12.0,
 													"id" : "obj-65",
-													"linecount" : 2,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
@@ -2078,7 +2059,6 @@
 													"fontname" : "Arial",
 													"fontsize" : 12.0,
 													"id" : "obj-18",
-													"linecount" : 2,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
@@ -3121,7 +3101,7 @@
 													"maxclass" : "newobj",
 													"numinlets" : 1,
 													"numoutlets" : 0,
-													"patching_rect" : [ 78.0, 288.0, 77.0, 35.0 ],
+													"patching_rect" : [ 78.0, 288.0, 59.0, 35.0 ],
 													"text" : "s #1-seek"
 												}
 
@@ -3784,16 +3764,7 @@
 							}
 , 							{
 								"patchline" : 								{
-									"destination" : [ "obj-17", 1 ],
-									"order" : 1,
-									"source" : [ "obj-34", 0 ]
-								}
-
-							}
-, 							{
-								"patchline" : 								{
 									"destination" : [ "obj-32", 0 ],
-									"order" : 0,
 									"source" : [ "obj-34", 0 ]
 								}
 
@@ -3834,7 +3805,7 @@
 , 							{
 								"patchline" : 								{
 									"destination" : [ "obj-34", 1 ],
-									"midpoints" : [ 131.5, 191.5, 200.0, 191.5, 200.0, 123.5, 185.5, 123.5 ],
+									"midpoints" : [ 131.5, 191.5, 200.0, 191.5, 200.0, 88.5, 185.5, 88.5 ],
 									"source" : [ "obj-39", 1 ]
 								}
 
@@ -4036,7 +4007,9 @@
 				}
 
 			}
- ]
+ ],
+		"dependency_cache" : [  ],
+		"autosave" : 0
 	}
 
 }
